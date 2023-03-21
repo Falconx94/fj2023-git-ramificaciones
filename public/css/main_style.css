@@ -2,3 +2,14 @@
 {
     font-family: 'Courier New', Courier, monospace;
 }
+#Body_Header
+{
+    margin: auto;
+    padding: 15em;
+    background-color: brown;
+}
+#Body_Header, .slider
+{
+    margin: 5px;
+    background-color: darkred;
+}
